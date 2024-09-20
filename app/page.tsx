@@ -98,7 +98,7 @@ export default function LandingPage() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Get in Touch</h2>
                 <p className="max-w-[600px] text-zinc-500 md:text-xl">
-                  Have a question or want to learn more about our solutions? We'd love to hear from you!
+                  Have a question or want to learn more about our solutions? We&apos;d love to hear from you!
                 </p>
               </div>
               <div className="w-full max-w-sm space-y-2">
